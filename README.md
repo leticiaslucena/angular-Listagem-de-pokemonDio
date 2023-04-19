@@ -3,7 +3,7 @@ Plataforma Web para listagem e visualização de pokemon e suas evoluções, bus
 <br>
 Projeto criado para o curso de Angular- DIO
 
-### Para acessar as caracteristicas de cada um, _click_ no botão direito do seu mause.
+### Para acessar as caracteristicas de cada um, _click_ no botão direito do seu mouse.
 
 
 ## Contato:
