@@ -11,5 +11,5 @@ Projeto criado para o curso de Angular- DIO
 [LinkedIn](https://www.linkedin.com/in/leticiasantosferreira/)
 
 
-## img:
-![pokedex](https://user-images.githubusercontent.com/101010396/233199984-6ad68156-4423-4600-a5a4-2b219ddbbf7a.PNG)
+## link para a pag no vercel:
+[pokedex](https://angular-listagem-de-pokemon.vercel.app/)
